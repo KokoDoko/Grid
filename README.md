@@ -1,2 +1,3 @@
 # Grid
-Generating a clickable grid
+
+Generating a clickable grid of DOM elements.
